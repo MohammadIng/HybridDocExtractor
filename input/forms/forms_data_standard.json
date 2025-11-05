@@ -1,0 +1,2054 @@
+{
+  "form_1_1": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 75,
+      "avg_cells_per_table": 37.5,
+      "num_text_blocks": 5,
+      "num_title_blocks": 1,
+      "num_large_tables": 1,
+      "num_small_tables": 0,
+      "max_cells_table": 57,
+      "avg_columns_est": 7,
+      "avg_rows_est": 8,
+      "avg_cell_width": 111.3,
+      "avg_cell_height": 52.5,
+      "x_range_cells": 540,
+      "y_range_cells": 333,
+      "type_distribution": {
+        "Text": 5,
+        "Title": 1,
+        "Table": 2
+      },
+      "form_score": 8.15
+    },
+    "form_type": "form_1_1",
+    "form_content": [
+      {
+        "texts": "Leistungsquittungen",
+        "coordinates": [
+          343,
+          126,
+          485,
+          142
+        ]
+      },
+      {
+        "texts": "Leistungsquittungen/Surrogat FLS",
+        "coordinates": [
+          343,
+          126,
+          534,
+          142
+        ]
+      },
+      {
+        "texts": "Name, Vorname",
+        "coordinates": [
+          348,
+          160,
+          481,
+          188
+        ]
+      },
+      {
+        "texts": "Träger",
+        "coordinates": [
+          656,
+          160,
+          752,
+          188
+        ]
+      },
+      {
+        "texts": "Geburtsdatum",
+        "coordinates": [
+          348,
+          188,
+          480,
+          212
+        ]
+      },
+      {
+        "texts": "Anzahl bewilligter FLS bzw. ganz- tags/halbtags im Bewilligungszeitraum",
+        "coordinates": [
+          348,
+          211,
+          480,
+          272
+        ]
+      },
+      {
+        "texts": "Bescheid von/bis",
+        "coordinates": [
+          348,
+          271,
+          480,
+          317
+        ]
+      },
+      {
+        "texts": "Nachweiszeitraum: (Monat/jahr)",
+        "coordinates": [
+          657,
+          272,
+          752,
+          317
+        ]
+      },
+      {
+        "texts": "Gesamt FLS im Nachweiszeitraum",
+        "coordinates": [
+          348,
+          317,
+          752,
+          341
+        ]
+      },
+      {
+        "texts": "Ich (der/die Leistungsberechtigte) habe Leistungen in folgendem Umfang in Anspruch genommen",
+        "coordinates": [
+          343,
+          359,
+          858,
+          376
+        ]
+      },
+      {
+        "texts": "am (Datum) um (Uhrzeit)",
+        "coordinates": [
+          346,
+          406,
+          463,
+          435
+        ]
+      },
+      {
+        "texts": "Dauer in FLS",
+        "coordinates": [
+          463,
+          406,
+          519,
+          435
+        ]
+      },
+      {
+        "texts": "Allein",
+        "coordinates": [
+          519,
+          406,
+          567,
+          435
+        ]
+      },
+      {
+        "texts": "In der Gruppe",
+        "coordinates": [
+          567,
+          406,
+          623,
+          435
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          727,
+          406,
+          759,
+          435
+        ]
+      },
+      {
+        "texts": "nein",
+        "coordinates": [
+          759,
+          406,
+          799,
+          435
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          799,
+          406,
+          878,
+          435
+        ]
+      },
+      {
+        "texts": "zu",
+        "coordinates": [
+          567,
+          434,
+          623,
+          503
+        ]
+      },
+      {
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "coordinates": [
+          623,
+          434,
+          727,
+          476
+        ]
+      },
+      {
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "coordinates": [
+          623,
+          475,
+          727,
+          503
+        ]
+      },
+      {
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "coordinates": [
+          351,
+          502,
+          825,
+          531
+        ]
+      },
+      {
+        "texts": "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "coordinates": [
+          346,
+          571,
+          519,
+          640
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          523,
+          573,
+          537,
+          586
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          567,
+          571,
+          623,
+          600
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          623,
+          571,
+          791,
+          640
+        ]
+      },
+      {
+        "texts": "Handzeichen LE+ Pers.Nr.",
+        "coordinates": [
+          791,
+          571,
+          878,
+          600
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          522,
+          600,
+          537,
+          614
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          567,
+          599,
+          623,
+          640
+        ]
+      },
+      {
+        "texts": "am (Datum) um (Uhrzeit)",
+        "coordinates": [
+          346,
+          641,
+          463,
+          670
+        ]
+      },
+      {
+        "texts": "Dauer in FLS",
+        "coordinates": [
+          463,
+          641,
+          519,
+          670
+        ]
+      },
+      {
+        "texts": "Allein",
+        "coordinates": [
+          519,
+          641,
+          567,
+          670
+        ]
+      },
+      {
+        "texts": "In der Gruppe",
+        "coordinates": [
+          567,
+          641,
+          623,
+          670
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          727,
+          641,
+          759,
+          670
+        ]
+      },
+      {
+        "texts": "nein",
+        "coordinates": [
+          759,
+          641,
+          799,
+          670
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          798,
+          641,
+          878,
+          670
+        ]
+      },
+      {
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "coordinates": [
+          623,
+          669,
+          727,
+          711
+        ]
+      },
+      {
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "coordinates": [
+          623,
+          711,
+          727,
+          738
+        ]
+      },
+      {
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "coordinates": [
+          350,
+          737,
+          826,
+          767
+        ]
+      },
+      {
+        "texts": "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "coordinates": [
+          345,
+          806,
+          519,
+          875
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          566,
+          806,
+          623,
+          834
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          622,
+          806,
+          791,
+          875
+        ]
+      },
+      {
+        "texts": "Handzeichen LE+ Pers.Nr.",
+        "coordinates": [
+          790,
+          806,
+          878,
+          834
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          523,
+          836,
+          537,
+          849
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          566,
+          833,
+          623,
+          875
+        ]
+      }
+    ]
+  },
+  "form_1_2": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 85,
+      "avg_cells_per_table": 42.5,
+      "num_text_blocks": 3,
+      "num_title_blocks": 1,
+      "num_large_tables": 1,
+      "num_small_tables": 1,
+      "max_cells_table": 78,
+      "avg_columns_est": 6,
+      "avg_rows_est": 10,
+      "avg_cell_width": 107.3,
+      "avg_cell_height": 45.4,
+      "x_range_cells": 491,
+      "y_range_cells": 357,
+      "type_distribution": {
+        "Text": 3,
+        "Title": 1,
+        "Table": 2
+      }
+    },
+    "form_type": "form_1_2",
+    "form_content": [
+      {
+        "texts": "Leistungsquittungen",
+        "coordinates": [
+          371,
+          128,
+          485,
+          144
+        ]
+      },
+      {
+        "texts": "Leistungsquittungen/Surrogat FLS",
+        "coordinates": [
+          371,
+          128,
+          547,
+          144
+        ]
+      },
+      {
+        "texts": "Name, Vorname",
+        "coordinates": [
+          377,
+          161,
+          556,
+          189
+        ]
+      },
+      {
+        "texts": "Geburtsdatum",
+        "coordinates": [
+          377,
+          188,
+          556,
+          211
+        ]
+      },
+      {
+        "texts": "Nachweiszeitraum (Monat/Jahr)",
+        "coordinates": [
+          377,
+          210,
+          556,
+          234
+        ]
+      },
+      {
+        "texts": "am (Datum) um (Uhrzeit)",
+        "coordinates": [
+          375,
+          253,
+          482,
+          279
+        ]
+      },
+      {
+        "texts": "Dauer in FLS",
+        "coordinates": [
+          481,
+          253,
+          533,
+          278
+        ]
+      },
+      {
+        "texts": "Allein",
+        "coordinates": [
+          532,
+          253,
+          576,
+          278
+        ]
+      },
+      {
+        "texts": "In der Gruppe",
+        "coordinates": [
+          576,
+          253,
+          627,
+          279
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          721,
+          253,
+          751,
+          278
+        ]
+      },
+      {
+        "texts": "nein",
+        "coordinates": [
+          751,
+          253,
+          788,
+          278
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          787,
+          253,
+          860,
+          278
+        ]
+      },
+      {
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "coordinates": [
+          627,
+          278,
+          722,
+          315
+        ]
+      },
+      {
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "coordinates": [
+          627,
+          315,
+          722,
+          340
+        ]
+      },
+      {
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "coordinates": [
+          382,
+          338,
+          802,
+          367
+        ]
+      },
+      {
+        "texts": "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "coordinates": [
+          375,
+          402,
+          533,
+          465
+        ]
+      },
+      {
+        "texts": "ja",
+        "coordinates": [
+          532,
+          402,
+          576,
+          428
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          576,
+          402,
+          627,
+          428
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          627,
+          402,
+          780,
+          465
+        ]
+      },
+      {
+        "texts": "Handzeichen LE+ Pers.Nr.",
+        "coordinates": [
+          779,
+          402,
+          860,
+          428
+        ]
+      },
+      {
+        "texts": "ja",
+        "coordinates": [
+          532,
+          427,
+          576,
+          465
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          576,
+          427,
+          627,
+          465
+        ]
+      },
+      {
+        "texts": "am (Datum) um (Uhrzeit)",
+        "coordinates": [
+          375,
+          466,
+          482,
+          493
+        ]
+      },
+      {
+        "texts": "Dauer in FLS",
+        "coordinates": [
+          481,
+          466,
+          533,
+          492
+        ]
+      },
+      {
+        "texts": "Allein",
+        "coordinates": [
+          532,
+          466,
+          576,
+          492
+        ]
+      },
+      {
+        "texts": "In der Gruppe",
+        "coordinates": [
+          576,
+          466,
+          627,
+          492
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          721,
+          466,
+          751,
+          492
+        ]
+      },
+      {
+        "texts": "nein",
+        "coordinates": [
+          751,
+          466,
+          788,
+          492
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          787,
+          466,
+          860,
+          492
+        ]
+      },
+      {
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "coordinates": [
+          627,
+          492,
+          722,
+          529
+        ]
+      },
+      {
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "coordinates": [
+          627,
+          529,
+          722,
+          554
+        ]
+      },
+      {
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "coordinates": [
+          377,
+          554,
+          818,
+          580
+        ]
+      },
+      {
+        "texts": "Der leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "coordinates": [
+          375,
+          615,
+          533,
+          679
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          532,
+          615,
+          577,
+          642
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          576,
+          615,
+          628,
+          642
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          627,
+          615,
+          780,
+          679
+        ]
+      },
+      {
+        "texts": "Handzeichen LE. Pers.Nr.",
+        "coordinates": [
+          779,
+          615,
+          860,
+          642
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          576,
+          641,
+          627,
+          679
+        ]
+      },
+      {
+        "texts": "am (Datum) um (Uhrzeit)",
+        "coordinates": [
+          375,
+          680,
+          482,
+          706
+        ]
+      },
+      {
+        "texts": "Dauer in FLS",
+        "coordinates": [
+          481,
+          680,
+          533,
+          705
+        ]
+      },
+      {
+        "texts": "Allein",
+        "coordinates": [
+          532,
+          680,
+          576,
+          705
+        ]
+      },
+      {
+        "texts": "In der Gruppe",
+        "coordinates": [
+          576,
+          680,
+          627,
+          706
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          721,
+          680,
+          751,
+          705
+        ]
+      },
+      {
+        "texts": "nein",
+        "coordinates": [
+          751,
+          680,
+          788,
+          705
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          787,
+          680,
+          860,
+          705
+        ]
+      },
+      {
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "coordinates": [
+          627,
+          705,
+          722,
+          743
+        ]
+      },
+      {
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "coordinates": [
+          627,
+          742,
+          722,
+          768
+        ]
+      },
+      {
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "coordinates": [
+          381,
+          767,
+          813,
+          794
+        ]
+      },
+      {
+        "texts": "Der leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "coordinates": [
+          378,
+          829,
+          535,
+          880
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          534,
+          829,
+          578,
+          855
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          577,
+          829,
+          628,
+          855
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          628,
+          829,
+          780,
+          880
+        ]
+      },
+      {
+        "texts": "Handzeichen LE. Pers.Nr.",
+        "coordinates": [
+          780,
+          829,
+          859,
+          855
+        ]
+      },
+      {
+        "texts": "Ja",
+        "coordinates": [
+          534,
+          855,
+          578,
+          880
+        ]
+      },
+      {
+        "texts": "Nein",
+        "coordinates": [
+          577,
+          855,
+          628,
+          880
+        ]
+      }
+    ]
+  },
+  "form_2_1": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 79,
+      "avg_cells_per_table": 39.5,
+      "num_text_blocks": 2,
+      "num_title_blocks": 0,
+      "num_large_tables": 1,
+      "num_small_tables": 1,
+      "max_cells_table": 70,
+      "avg_columns_est": 8,
+      "avg_rows_est": 7,
+      "avg_cell_width": 149.9,
+      "avg_cell_height": 62.1,
+      "x_range_cells": 888,
+      "y_range_cells": 274,
+      "type_distribution": {
+        "Text": 2,
+        "Table": 2
+      }
+    },
+    "form_type": "form_2_1",
+    "form_content": [
+      {
+        "texts": "Leistungsquittung",
+        "coordinates": [
+          169,
+          198,
+          420,
+          217
+        ]
+      },
+      {
+        "texts": "Leistungsquittung / Surrogat – Arbeitsbereich des Leistungserbringers (LE) Michaelwerk Rostock",
+        "coordinates": [
+          169,
+          198,
+          850,
+          217
+        ]
+      },
+      {
+        "texts": "Name, Vorname",
+        "coordinates": [
+          174,
+          237,
+          334,
+          258
+        ]
+      },
+      {
+        "texts": "Leistung: Teilhabe am Arbeitsleben",
+        "coordinates": [
+          572,
+          237,
+          691,
+          297
+        ]
+      },
+      {
+        "texts": "Arbeitsbereich",
+        "coordinates": [
+          691,
+          237,
+          1057,
+          297
+        ]
+      },
+      {
+        "texts": "Geburtsdatum",
+        "coordinates": [
+          175,
+          257,
+          334,
+          297
+        ]
+      },
+      {
+        "texts": "Bedarf Laut ITP",
+        "coordinates": [
+          174,
+          296,
+          1057,
+          320
+        ]
+      },
+      {
+        "texts": "Ganztagsplatz Halbtagsplatz Wochenstunden: ______Std./Tag",
+        "coordinates": [
+          174,
+          322,
+          1057,
+          346
+        ]
+      },
+      {
+        "texts": "Ich, der/die Leistungsberechtigte (LB), habe Leistungen zur Teilhabe am Arbeitsleben in Anspruch genommen",
+        "coordinates": [
+          174,
+          368,
+          935,
+          387
+        ]
+      },
+      {
+        "texts": "Monat / Jahr",
+        "coordinates": [
+          169,
+          385,
+          1056,
+          816
+        ]
+      },
+      {
+        "texts": "Datum",
+        "coordinates": [
+          171,
+          408,
+          245,
+          502
+        ]
+      },
+      {
+        "texts": "Uhrzeit von-bis",
+        "coordinates": [
+          245,
+          408,
+          312,
+          502
+        ]
+      },
+      {
+        "texts": "Der/die LB hat die Leistung",
+        "coordinates": [
+          330,
+          408,
+          517,
+          452
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          518,
+          408,
+          654,
+          502
+        ]
+      },
+      {
+        "texts": "Unterschrift LE",
+        "coordinates": [
+          655,
+          408,
+          738,
+          502
+        ]
+      },
+      {
+        "texts": "Ich bin mit der Leistung zufrieden",
+        "coordinates": [
+          757,
+          408,
+          910,
+          502
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          911,
+          408,
+          1054,
+          502
+        ]
+      },
+      {
+        "texts": "abgenommen",
+        "coordinates": [
+          330,
+          452,
+          432,
+          502
+        ]
+      },
+      {
+        "texts": "bewertet",
+        "coordinates": [
+          433,
+          452,
+          517,
+          502
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          757,
+          501,
+          910,
+          545
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          757,
+          545,
+          910,
+          591
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          757,
+          590,
+          910,
+          635
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          757,
+          634,
+          910,
+          680
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          757,
+          679,
+          910,
+          724
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          757,
+          723,
+          910,
+          769
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          756,
+          768,
+          910,
+          814
+        ]
+      }
+    ]
+  },
+  "form_2_2": {
+    "form_features": {
+      "num_tables": 1,
+      "num_cells_total": 94,
+      "avg_cells_per_table": 94.0,
+      "num_text_blocks": 1,
+      "num_title_blocks": 0,
+      "num_large_tables": 1,
+      "num_small_tables": 0,
+      "max_cells_table": 94,
+      "avg_columns_est": 12,
+      "avg_rows_est": 12,
+      "avg_cell_width": 112.5,
+      "avg_cell_height": 64.7,
+      "x_range_cells": 902,
+      "y_range_cells": 573,
+      "type_distribution": {
+        "Text": 1,
+        "Table": 1
+      }
+    },
+    "form_type": "form_2_2",
+    "form_content": [
+      {
+        "texts": "Leistungsquittung",
+        "coordinates": [
+          155,
+          187,
+          310,
+          207
+        ]
+      },
+      {
+        "texts": "Leistungsquittung / Surrogat – Arbeitsbereich des Leistungserbringers (LE) Michaelwerk Rostock",
+        "coordinates": [
+          155,
+          187,
+          856,
+          207
+        ]
+      },
+      {
+        "texts": "Monat / Jahr",
+        "coordinates": [
+          164,
+          222,
+          1066,
+          795
+        ]
+      },
+      {
+        "texts": "Datum",
+        "coordinates": [
+          172,
+          249,
+          226,
+          266
+        ]
+      },
+      {
+        "texts": "Uhrzeit von-bis",
+        "coordinates": [
+          241,
+          245,
+          310,
+          340
+        ]
+      },
+      {
+        "texts": "der/die LB hat die Leis- tung",
+        "coordinates": [
+          328,
+          245,
+          518,
+          289
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          519,
+          245,
+          656,
+          340
+        ]
+      },
+      {
+        "texts": "Unter- schrift LE",
+        "coordinates": [
+          657,
+          245,
+          743,
+          340
+        ]
+      },
+      {
+        "texts": "Ich, bin mit der Leis- tung zufrieden",
+        "coordinates": [
+          761,
+          245,
+          916,
+          340
+        ]
+      },
+      {
+        "texts": "Unterschrift LB",
+        "coordinates": [
+          922,
+          249,
+          1008,
+          265
+        ]
+      },
+      {
+        "texts": "abgenommen",
+        "coordinates": [
+          328,
+          290,
+          431,
+          340
+        ]
+      },
+      {
+        "texts": "bewertet",
+        "coordinates": [
+          437,
+          293,
+          505,
+          310
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          340,
+          916,
+          385
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          384,
+          916,
+          430
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          429,
+          916,
+          476
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          475,
+          916,
+          521
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          520,
+          916,
+          566
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          565,
+          916,
+          612
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          611,
+          916,
+          657
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          656,
+          916,
+          702
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          701,
+          916,
+          748
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          761,
+          747,
+          916,
+          793
+        ]
+      }
+    ]
+  },
+  "form_3_1": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 87,
+      "avg_cells_per_table": 43.5,
+      "num_text_blocks": 4,
+      "num_title_blocks": 0,
+      "num_large_tables": 1,
+      "num_small_tables": 0,
+      "max_cells_table": 75,
+      "avg_columns_est": 6,
+      "avg_rows_est": 6,
+      "avg_cell_width": 141.1,
+      "avg_cell_height": 42.0,
+      "x_range_cells": 898,
+      "y_range_cells": 235,
+      "type_distribution": {
+        "Text": 4,
+        "Table": 2
+      }
+    },
+    "form_type": "form_3_1",
+    "form_content": [
+      {
+        "texts": "Leistungsquittung",
+        "coordinates": [
+          159,
+          202,
+          320,
+          220
+        ]
+      },
+      {
+        "texts": "Leistungsquittung / Surrogat für EGH Minderjährige - des Leistungserbringers (LE)",
+        "coordinates": [
+          159,
+          202,
+          647,
+          220
+        ]
+      },
+      {
+        "texts": "Name, Vorname",
+        "coordinates": [
+          173,
+          243,
+          336,
+          277
+        ]
+      },
+      {
+        "texts": "Name des Leistungserbringers",
+        "coordinates": [
+          658,
+          243,
+          1060,
+          309
+        ]
+      },
+      {
+        "texts": "Geburtsdatum",
+        "coordinates": [
+          173,
+          276,
+          336,
+          309
+        ]
+      },
+      {
+        "texts": "Anzahl bewilligter FLS",
+        "coordinates": [
+          173,
+          309,
+          336,
+          342
+        ]
+      },
+      {
+        "texts": "Leistungsart",
+        "coordinates": [
+          658,
+          309,
+          1060,
+          342
+        ]
+      },
+      {
+        "texts": "Bedarfszeitraum von/bis",
+        "coordinates": [
+          173,
+          341,
+          336,
+          378
+        ]
+      },
+      {
+        "texts": "Nachweiszeitraum: (Monat/lahr)",
+        "coordinates": [
+          658,
+          341,
+          1060,
+          378
+        ]
+      },
+      {
+        "texts": "Ich (der/ die Leistungsberechtigte, habe Leistungen in folgendem Umfang in Anspruch genommen",
+        "coordinates": [
+          157,
+          410,
+          739,
+          426
+        ]
+      },
+      {
+        "texts": "Datum",
+        "coordinates": [
+          173,
+          445,
+          254,
+          533
+        ]
+      },
+      {
+        "texts": "FLS",
+        "coordinates": [
+          254,
+          445,
+          304,
+          533
+        ]
+      },
+      {
+        "texts": "Der / die LB hat die Leistung",
+        "coordinates": [
+          303,
+          445,
+          436,
+          482
+        ]
+      },
+      {
+        "texts": "Leistungserbringung",
+        "coordinates": [
+          435,
+          445,
+          551,
+          482
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          550,
+          445,
+          733,
+          533
+        ]
+      },
+      {
+        "texts": "Handzeichen LE",
+        "coordinates": [
+          732,
+          445,
+          881,
+          533
+        ]
+      },
+      {
+        "texts": "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden",
+        "coordinates": [
+          880,
+          445,
+          1060,
+          533
+        ]
+      },
+      {
+        "texts": "abgenommen",
+        "coordinates": [
+          304,
+          482,
+          369,
+          533
+        ]
+      },
+      {
+        "texts": "bewertet",
+        "coordinates": [
+          370,
+          482,
+          435,
+          533
+        ]
+      },
+      {
+        "texts": "allein",
+        "coordinates": [
+          435,
+          482,
+          484,
+          533
+        ]
+      },
+      {
+        "texts": "Gruppe",
+        "coordinates": [
+          485,
+          482,
+          551,
+          533
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          532,
+          1060,
+          565
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          565,
+          1060,
+          598
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          597,
+          1060,
+          631
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          630,
+          1060,
+          663
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          663,
+          1060,
+          696
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          695,
+          1060,
+          728
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          881,
+          727,
+          1060,
+          761
+        ]
+      },
+      {
+        "texts": "Datum/Unterschrift Leistungserbringer",
+        "coordinates": [
+          173,
+          805,
+          334,
+          817
+        ]
+      },
+      {
+        "texts": "Datum/Unterschrift Leistungsberechtigte(r) und/oder Personensorgeberechtigte(r)",
+        "coordinates": [
+          651,
+          806,
+          993,
+          818
+        ]
+      }
+    ]
+  },
+  "form_3_2": {
+    "form_features": {
+      "num_tables": 1,
+      "num_cells_total": 129,
+      "avg_cells_per_table": 129.0,
+      "num_text_blocks": 3,
+      "num_title_blocks": 0,
+      "num_large_tables": 1,
+      "num_small_tables": 0,
+      "max_cells_table": 129,
+      "avg_columns_est": 8,
+      "avg_rows_est": 13,
+      "avg_cell_width": 104.8,
+      "avg_cell_height": 39.1,
+      "x_range_cells": 896,
+      "y_range_cells": 521,
+      "type_distribution": {
+        "Text": 3,
+        "Table": 1
+      }
+    },
+    "form_type": "form_3_2",
+    "form_content": [
+      {
+        "texts": "Leistungsquittung",
+        "coordinates": [
+          156,
+          201,
+          300,
+          219
+        ]
+      },
+      {
+        "texts": "Leistungsquittung / Surrogat für EGH Minderjährige - des Leistungserbringers (LE)",
+        "coordinates": [
+          156,
+          201,
+          645,
+          219
+        ]
+      },
+      {
+        "texts": "Datum",
+        "coordinates": [
+          174,
+          241,
+          217,
+          258
+        ]
+      },
+      {
+        "texts": "FLS",
+        "coordinates": [
+          261,
+          242,
+          284,
+          256
+        ]
+      },
+      {
+        "texts": "Der / die LB hat die Leistung",
+        "coordinates": [
+          302,
+          240,
+          434,
+          277
+        ]
+      },
+      {
+        "texts": "Leistungserbringung",
+        "coordinates": [
+          434,
+          240,
+          550,
+          277
+        ]
+      },
+      {
+        "texts": "Wenn nicht, weil",
+        "coordinates": [
+          549,
+          240,
+          731,
+          327
+        ]
+      },
+      {
+        "texts": "Handzeichen LE",
+        "coordinates": [
+          733,
+          242,
+          814,
+          257
+        ]
+      },
+      {
+        "texts": "Der Mitarbeiter hat mir geholfen/ Ich, war mit der Hilfe zufrieden",
+        "coordinates": [
+          879,
+          240,
+          1058,
+          328
+        ]
+      },
+      {
+        "texts": "abgenommen",
+        "coordinates": [
+          303,
+          277,
+          368,
+          327
+        ]
+      },
+      {
+        "texts": "bewertet",
+        "coordinates": [
+          372,
+          278,
+          430,
+          293
+        ]
+      },
+      {
+        "texts": "allein",
+        "coordinates": [
+          437,
+          277,
+          475,
+          293
+        ]
+      },
+      {
+        "texts": "Gruppe",
+        "coordinates": [
+          484,
+          277,
+          550,
+          328
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          327,
+          1058,
+          360
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          360,
+          1058,
+          393
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          392,
+          1058,
+          425
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          373,
+          427,
+          387,
+          441
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          424,
+          1058,
+          458
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          375,
+          463,
+          385,
+          473
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          457,
+          1058,
+          490
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          372,
+          492,
+          385,
+          507
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          489,
+          1058,
+          523
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          309,
+          526,
+          316,
+          537
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          372,
+          524,
+          387,
+          539
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          522,
+          1058,
+          555
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          554,
+          1058,
+          587
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          375,
+          559,
+          382,
+          567
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          587,
+          1058,
+          620
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          620,
+          1058,
+          652
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          652,
+          1058,
+          685
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          685,
+          1058,
+          718
+        ]
+      },
+      {
+        "texts": "ja nein",
+        "coordinates": [
+          879,
+          717,
+          1058,
+          750
+        ]
+      },
+      {
+        "texts": " Datum/Unterschrift Leistungserbringer",
+        "coordinates": [
+          173,
+          791,
+          333,
+          803
+        ]
+      },
+      {
+        "texts": " Datum/Unterschrift Leistungsberechtigte(r) und/oder Personensorgeberechtigte(r) ",
+        "coordinates": [
+          652,
+          791,
+          992,
+          803
+        ]
+      }
+    ]
+  }
+}

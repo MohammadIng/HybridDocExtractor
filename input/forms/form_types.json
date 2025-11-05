@@ -1,0 +1,62 @@
+{
+  "form_01": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 75,
+      "avg_cells_per_table": 37.5,
+      "num_text_blocks": 6,
+      "num_title_blocks": 1,
+      "num_large_tables": 1,
+      "max_cells_table": 57,
+      "avg_columns_est": 8,
+      "avg_rows_est": 8,
+      "form_score": 6.72
+    },
+    "form_type": "form_01"
+  },
+  "form_02": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 85,
+      "avg_cells_per_table": 42.5,
+      "num_text_blocks": 3,
+      "num_title_blocks": 1,
+      "num_large_tables": 1,
+      "max_cells_table": 78,
+      "avg_columns_est": 5,
+      "avg_rows_est": 11,
+      "form_score": 7.25
+    },
+    "form_type": "form_02"
+  },
+  "form_03": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 79,
+      "avg_cells_per_table": 39.5,
+      "num_text_blocks": 1,
+      "num_title_blocks": 1,
+      "num_large_tables": 1,
+      "max_cells_table": 70,
+      "avg_columns_est": 7,
+      "avg_rows_est": 7,
+      "form_score": 6.65
+    },
+    "form_type": "form_03"
+  },
+  "form_04": {
+    "form_features": {
+      "num_tables": 2,
+      "num_cells_total": 87,
+      "avg_cells_per_table": 43.5,
+      "num_text_blocks": 3,
+      "num_title_blocks": 1,
+      "num_large_tables": 1,
+      "max_cells_table": 75,
+      "avg_columns_est": 4,
+      "avg_rows_est": 7,
+      "form_score": 7.4
+    },
+    "form_type": "form_04"
+  }
+}
