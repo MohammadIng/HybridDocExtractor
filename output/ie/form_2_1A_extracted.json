@@ -1,0 +1,88 @@
+{
+  "Formtyp": "form_2_1A",
+  "Metadaten": {
+    "Name, Vorname": "Jan Moller",
+    "Arbeitsbereich": "PYoblen losung",
+    "Geburtsdatum": "ol-oz. 1995",
+    "Bedarf Laut ITP": "ol ol. 2022 . 3). 12. 202 3"
+  },
+  "Tätigkeitsdaten": [
+    {
+      "ID": 1,
+      "Datum": "ol-o2.2013",
+      "Uhrzeit von-bis": "13:00 17:00",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": null,
+      "Unterschrift LE": "LE 29",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "LB MA"
+    },
+    {
+      "ID": 2,
+      "Datum": "0204.202,",
+      "Uhrzeit von-bis": "08:00 :20",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": null,
+      "Unterschrift LE": "LE 3y",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "da Lg"
+    },
+    {
+      "ID": 3,
+      "Datum": null,
+      "Uhrzeit von-bis": "30 17:",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": null,
+      "Unterschrift LE": "LE ay",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "Mq LB"
+    },
+    {
+      "ID": 4,
+      "Datum": "13.06 2023",
+      "Uhrzeit von-bis": "12:00 17:00",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": null,
+      "Unterschrift LE": "LE Ry",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "LB Ma"
+    },
+    {
+      "ID": 5,
+      "Datum": "12-07.2024",
+      "Uhrzeit von-bis": "06:49 09:46",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": "wetterbediy 9+",
+      "Unterschrift LE": "LE a4",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "LB Ms"
+    },
+    {
+      "ID": 6,
+      "Datum": "1M1-2027",
+      "Uhrzeit von-bis": "jo:g 13:30",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": "feliey N",
+      "Unterschrift LE": "L6 W",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "LR Mu"
+    },
+    {
+      "ID": 7,
+      "Datum": "31-12-2043",
+      "Uhrzeit von-bis": "lo:oo 00",
+      "abgenommen": null,
+      "bewertet": null,
+      "Wenn nicht, weil": null,
+      "Unterschrift LE": "LE a",
+      "Ich bin mit der Leistung zufrieden": null,
+      "Unterschrift LB": "LB le"
+    }
+  ]
+}

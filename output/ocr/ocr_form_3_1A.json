@@ -1,0 +1,1251 @@
+[
+    {
+        "table_id": -1,
+        "texts": "Leistungsquittung",
+        "type": "OCR",
+        "coordinates": [
+            158,
+            202,
+            268,
+            221
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Name, Vorname",
+        "type": "OCR",
+        "coordinates": [
+            171,
+            243,
+            334,
+            277
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Austeinawe, Muster",
+        "type": "HTR",
+        "coordinates": [
+            334,
+            244,
+            656,
+            277
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Name des Leistungserbringers",
+        "type": "OCR",
+        "coordinates": [
+            656,
+            244,
+            1058,
+            310
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "s Venmoyter Veunuster",
+        "type": "HTR",
+        "coordinates": [
+            656,
+            244,
+            1058,
+            310
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Geburtsdatum",
+        "type": "OCR",
+        "coordinates": [
+            171,
+            277,
+            334,
+            310
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "O.o). 1970",
+        "type": "HTR",
+        "coordinates": [
+            334,
+            277,
+            655,
+            310
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Anzahl bewilligter FLS",
+        "type": "OCR",
+        "coordinates": [
+            171,
+            310,
+            334,
+            343
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "3",
+        "type": "HTR",
+        "coordinates": [
+            334,
+            310,
+            655,
+            342
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Leistungsart",
+        "type": "OCR",
+        "coordinates": [
+            656,
+            310,
+            1058,
+            343
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Testen",
+        "type": "HTR",
+        "coordinates": [
+            656,
+            310,
+            1058,
+            343
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Bedarfszeitraum von/bis",
+        "type": "OCR",
+        "coordinates": [
+            171,
+            342,
+            334,
+            379
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "2 30.04.2025 ol-of.20 5-",
+        "type": "HTR",
+        "coordinates": [
+            334,
+            343,
+            656,
+            378
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Nachweiszeitraum: (Monat/lahr)",
+        "type": "OCR",
+        "coordinates": [
+            656,
+            342,
+            1058,
+            379
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "04-2 2025",
+        "type": "HTR",
+        "coordinates": [
+            656,
+            342,
+            1058,
+            379
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Ich (der/ die Leistungsberechtigte, habe Leistungen in folgendem Umfang in Anspruch genommen",
+        "type": "OCR",
+        "coordinates": [
+            157,
+            412,
+            737,
+            428
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Datum",
+        "type": "OCR",
+        "coordinates": [
+            171,
+            446,
+            252,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "FLS",
+        "type": "OCR",
+        "coordinates": [
+            251,
+            446,
+            302,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Der / die LB hat die Leistung",
+        "type": "OCR",
+        "coordinates": [
+            301,
+            446,
+            433,
+            483
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "en",
+        "type": "HTR",
+        "coordinates": [
+            301,
+            446,
+            433,
+            483
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Leistungserbringung",
+        "type": "OCR",
+        "coordinates": [
+            433,
+            446,
+            549,
+            483
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Wenn nicht, weil",
+        "type": "OCR",
+        "coordinates": [
+            548,
+            446,
+            730,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Handzeichen LE",
+        "type": "OCR",
+        "coordinates": [
+            730,
+            446,
+            878,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden",
+        "type": "OCR",
+        "coordinates": [
+            878,
+            446,
+            1058,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "abgenommen",
+        "type": "OCR",
+        "coordinates": [
+            302,
+            483,
+            367,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "bewertet",
+        "type": "OCR",
+        "coordinates": [
+            367,
+            483,
+            433,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "allein",
+        "type": "OCR",
+        "coordinates": [
+            433,
+            483,
+            483,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Gruppe",
+        "type": "OCR",
+        "coordinates": [
+            483,
+            483,
+            549,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": ":e",
+        "type": "HTR",
+        "coordinates": [
+            498,
+            498,
+            533,
+            517
+        ],
+        "cell_coordinates": [
+            483,
+            483,
+            549,
+            533
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ol.ol.2025",
+        "type": "HTR",
+        "coordinates": [
+            169,
+            541,
+            254,
+            563
+        ],
+        "cell_coordinates": [
+            171,
+            533,
+            252,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "- 1",
+        "type": "HTR",
+        "coordinates": [
+            252,
+            533,
+            301,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "A",
+        "type": "HTR",
+        "coordinates": [
+            302,
+            533,
+            323,
+            555
+        ],
+        "cell_coordinates": [
+            302,
+            533,
+            367,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "A",
+        "type": "HTR",
+        "coordinates": [
+            371,
+            535,
+            390,
+            557
+        ],
+        "cell_coordinates": [
+            367,
+            533,
+            433,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "A",
+        "type": "HTR",
+        "coordinates": [
+            433,
+            533,
+            457,
+            552
+        ],
+        "cell_coordinates": [
+            433,
+            533,
+            483,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LEel",
+        "type": "HTR",
+        "coordinates": [
+            730,
+            533,
+            878,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            879,
+            533,
+            1058,
+            566
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "o2.02025",
+        "type": "HTR",
+        "coordinates": [
+            168,
+            572,
+            251,
+            593
+        ],
+        "cell_coordinates": [
+            171,
+            566,
+            252,
+            599
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "2",
+        "type": "HTR",
+        "coordinates": [
+            266,
+            569,
+            289,
+            590
+        ],
+        "cell_coordinates": [
+            252,
+            566,
+            301,
+            598
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "XL",
+        "type": "HTR",
+        "coordinates": [
+            302,
+            565,
+            330,
+            585
+        ],
+        "cell_coordinates": [
+            302,
+            566,
+            367,
+            598
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "RI",
+        "type": "HTR",
+        "coordinates": [
+            371,
+            566,
+            389,
+            583
+        ],
+        "cell_coordinates": [
+            367,
+            566,
+            433,
+            598
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "D",
+        "type": "HTR",
+        "coordinates": [
+            437,
+            567,
+            454,
+            582
+        ],
+        "cell_coordinates": [
+            433,
+            566,
+            483,
+            598
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "2",
+        "type": "HTR",
+        "coordinates": [
+            485,
+            565,
+            507,
+            584
+        ],
+        "cell_coordinates": [
+            483,
+            566,
+            549,
+            598
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE",
+        "type": "HTR",
+        "coordinates": [
+            730,
+            566,
+            878,
+            598
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            879,
+            566,
+            1058,
+            599
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": ")",
+        "type": "HTR",
+        "coordinates": [
+            879,
+            566,
+            1058,
+            599
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "o5ol.2025",
+        "type": "HTR",
+        "coordinates": [
+            168,
+            604,
+            251,
+            626
+        ],
+        "cell_coordinates": [
+            171,
+            598,
+            252,
+            631
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "A",
+        "type": "HTR",
+        "coordinates": [
+            302,
+            599,
+            323,
+            620
+        ],
+        "cell_coordinates": [
+            302,
+            598,
+            367,
+            631
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "R",
+        "type": "HTR",
+        "coordinates": [
+            371,
+            599,
+            390,
+            618
+        ],
+        "cell_coordinates": [
+            367,
+            598,
+            433,
+            631
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "R",
+        "type": "HTR",
+        "coordinates": [
+            437,
+            600,
+            453,
+            619
+        ],
+        "cell_coordinates": [
+            433,
+            598,
+            483,
+            631
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LEAP",
+        "type": "HTR",
+        "coordinates": [
+            758,
+            601,
+            853,
+            630
+        ],
+        "cell_coordinates": [
+            730,
+            599,
+            878,
+            631
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            879,
+            598,
+            1058,
+            631
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "15.02.2029",
+        "type": "HTR",
+        "coordinates": [
+            172,
+            637,
+            255,
+            657
+        ],
+        "cell_coordinates": [
+            171,
+            631,
+            252,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "5",
+        "type": "HTR",
+        "coordinates": [
+            270,
+            635,
+            288,
+            660
+        ],
+        "cell_coordinates": [
+            252,
+            631,
+            301,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "R",
+        "type": "HTR",
+        "coordinates": [
+            302,
+            631,
+            323,
+            654
+        ],
+        "cell_coordinates": [
+            302,
+            631,
+            367,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "a",
+        "type": "HTR",
+        "coordinates": [
+            369,
+            631,
+            389,
+            652
+        ],
+        "cell_coordinates": [
+            367,
+            631,
+            433,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "6",
+        "type": "HTR",
+        "coordinates": [
+            438,
+            632,
+            457,
+            651
+        ],
+        "cell_coordinates": [
+            433,
+            631,
+            483,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Llel",
+        "type": "HTR",
+        "coordinates": [
+            748,
+            633,
+            854,
+            669
+        ],
+        "cell_coordinates": [
+            730,
+            631,
+            878,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            879,
+            631,
+            1058,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "n D",
+        "type": "HTR",
+        "coordinates": [
+            879,
+            631,
+            1058,
+            664
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "28.03.2025",
+        "type": "HTR",
+        "coordinates": [
+            168,
+            666,
+            256,
+            692
+        ],
+        "cell_coordinates": [
+            171,
+            664,
+            252,
+            697
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "3",
+        "type": "HTR",
+        "coordinates": [
+            264,
+            668,
+            283,
+            695
+        ],
+        "cell_coordinates": [
+            252,
+            664,
+            301,
+            696
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "3",
+        "type": "HTR",
+        "coordinates": [
+            305,
+            665,
+            323,
+            680
+        ],
+        "cell_coordinates": [
+            302,
+            664,
+            367,
+            696
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "a",
+        "type": "HTR",
+        "coordinates": [
+            372,
+            665,
+            390,
+            681
+        ],
+        "cell_coordinates": [
+            367,
+            664,
+            433,
+            696
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "L",
+        "type": "HTR",
+        "coordinates": [
+            439,
+            668,
+            448,
+            679
+        ],
+        "cell_coordinates": [
+            433,
+            664,
+            483,
+            696
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "a",
+        "type": "HTR",
+        "coordinates": [
+            487,
+            665,
+            503,
+            681
+        ],
+        "cell_coordinates": [
+            483,
+            664,
+            549,
+            696
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            879,
+            664,
+            1058,
+            697
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "If04-2025",
+        "type": "HTR",
+        "coordinates": [
+            172,
+            701,
+            251,
+            722
+        ],
+        "cell_coordinates": [
+            171,
+            696,
+            252,
+            729
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "2",
+        "type": "HTR",
+        "coordinates": [
+            268,
+            699,
+            287,
+            722
+        ],
+        "cell_coordinates": [
+            252,
+            696,
+            301,
+            728
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "a",
+        "type": "HTR",
+        "coordinates": [
+            304,
+            696,
+            324,
+            717
+        ],
+        "cell_coordinates": [
+            302,
+            696,
+            367,
+            728
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "D",
+        "type": "HTR",
+        "coordinates": [
+            371,
+            698,
+            387,
+            713
+        ],
+        "cell_coordinates": [
+            367,
+            696,
+            433,
+            728
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "B3",
+        "type": "HTR",
+        "coordinates": [
+            437,
+            698,
+            454,
+            713
+        ],
+        "cell_coordinates": [
+            433,
+            696,
+            483,
+            728
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Materialv-anyel",
+        "type": "HTR",
+        "coordinates": [
+            551,
+            700,
+            677,
+            721
+        ],
+        "cell_coordinates": [
+            549,
+            696,
+            730,
+            728
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            879,
+            696,
+            1058,
+            729
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "in D",
+        "type": "HTR",
+        "coordinates": [
+            879,
+            696,
+            1058,
+            729
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "29.04.2029",
+        "type": "HTR",
+        "coordinates": [
+            171,
+            730,
+            255,
+            753
+        ],
+        "cell_coordinates": [
+            171,
+            729,
+            252,
+            762
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "I",
+        "type": "HTR",
+        "coordinates": [
+            275,
+            733,
+            282,
+            742
+        ],
+        "cell_coordinates": [
+            251,
+            729,
+            302,
+            762
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "a",
+        "type": "HTR",
+        "coordinates": [
+            304,
+            728,
+            324,
+            750
+        ],
+        "cell_coordinates": [
+            301,
+            729,
+            368,
+            762
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "D",
+        "type": "HTR",
+        "coordinates": [
+            371,
+            729,
+            387,
+            746
+        ],
+        "cell_coordinates": [
+            367,
+            729,
+            433,
+            762
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "D",
+        "type": "HTR",
+        "coordinates": [
+            438,
+            730,
+            452,
+            744
+        ],
+        "cell_coordinates": [
+            433,
+            729,
+            483,
+            762
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "peySowaiy waej",
+        "type": "HTR",
+        "coordinates": [
+            548,
+            729,
+            730,
+            762
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            878,
+            729,
+            1058,
+            762
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "ol.o",
+        "type": "HTR",
+        "coordinates": [
+            154,
+            770,
+            208,
+            794
+        ],
+        "cell_coordinates": [
+            154,
+            770,
+            208,
+            794
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "5.2025",
+        "type": "HTR",
+        "coordinates": [
+            199,
+            767,
+            277,
+            794
+        ],
+        "cell_coordinates": [
+            199,
+            767,
+            277,
+            794
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Mustr",
+        "type": "HTR",
+        "coordinates": [
+            285,
+            766,
+            376,
+            797
+        ],
+        "cell_coordinates": [
+            285,
+            766,
+            376,
+            797
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "02.0.5.",
+        "type": "HTR",
+        "coordinates": [
+            664,
+            768,
+            780,
+            795
+        ],
+        "cell_coordinates": [
+            664,
+            768,
+            780,
+            795
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "2025",
+        "type": "HTR",
+        "coordinates": [
+            791,
+            768,
+            870,
+            795
+        ],
+        "cell_coordinates": [
+            791,
+            768,
+            870,
+            795
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "2yeE",
+        "type": "HTR",
+        "coordinates": [
+            902,
+            771,
+            979,
+            805
+        ],
+        "cell_coordinates": [
+            902,
+            771,
+            979,
+            805
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Datum/Unterschrift Leistungserbringer",
+        "type": "OCR",
+        "coordinates": [
+            169,
+            805,
+            331,
+            819
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Datum/Unterschrift Leistungsberechtigte(r) und/oder Personensorgeberechtigte(r)",
+        "type": "OCR",
+        "coordinates": [
+            649,
+            806,
+            993,
+            820
+        ]
+    }
+]

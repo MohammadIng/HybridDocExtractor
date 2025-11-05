@@ -1,0 +1,110 @@
+{
+  "Formtyp": "form_3_1A",
+  "Metadaten": {
+    "Name, Vorname": "Austeinawe, Muster",
+    "Name des Leistungserbringers": "s Venmoyter Veunuster",
+    "Geburtsdatum": "O.o). 1970",
+    "Anzahl bewilligter FLS": "3",
+    "Leistungsart": "Testen",
+    "Bedarfszeitraum von/bis": "2 30.04.2025 ol-of.20 5-",
+    "Nachweiszeitraum: (Monat/lahr)": "04-2 2025"
+  },
+  "Tätigkeitsdaten": [
+    {
+      "ID": 1,
+      "Datum": null,
+      "FLS": null,
+      "abgenommen": null,
+      "bewertet": null,
+      "allein": null,
+      "Gruppe": ":e",
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE": null,
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": null
+    },
+    {
+      "ID": 2,
+      "Datum": "ol.ol.2025",
+      "FLS": "- 1",
+      "abgenommen": "A",
+      "bewertet": "A",
+      "allein": "A",
+      "Gruppe": null,
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE": "LEel",
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": null
+    },
+    {
+      "ID": 3,
+      "Datum": "o2.02025",
+      "FLS": "2",
+      "abgenommen": "XL",
+      "bewertet": "RI",
+      "allein": "D",
+      "Gruppe": "2",
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE": "LE",
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": ")"
+    },
+    {
+      "ID": 4,
+      "Datum": "o5ol.2025",
+      "FLS": null,
+      "abgenommen": "A",
+      "bewertet": "R",
+      "allein": "R",
+      "Gruppe": null,
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE": "LEAP",
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": null
+    },
+    {
+      "ID": 5,
+      "Datum": "15.02.2029",
+      "FLS": "5",
+      "abgenommen": "R",
+      "bewertet": "a",
+      "allein": "6",
+      "Gruppe": null,
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE": "Llel",
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": "n D"
+    },
+    {
+      "ID": 6,
+      "Datum": "28.03.2025",
+      "FLS": "3",
+      "abgenommen": "3",
+      "bewertet": "a",
+      "allein": "L",
+      "Gruppe": "a",
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE": null,
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": null
+    },
+    {
+      "ID": 7,
+      "Datum": "If04-2025",
+      "FLS": "2",
+      "abgenommen": "a",
+      "bewertet": "D",
+      "allein": "B3",
+      "Gruppe": null,
+      "Wenn nicht, weil:": "Materialv-anyel",
+      "Handzeichen LE": null,
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": "in D"
+    },
+    {
+      "ID": 8,
+      "Datum": "29.04.2029",
+      "FLS": "I",
+      "abgenommen": "a",
+      "bewertet": "D",
+      "allein": "D",
+      "Gruppe": null,
+      "Wenn nicht, weil:": "peySowaiy waej",
+      "Handzeichen LE": null,
+      "Der Mitarbeiter hat mir geholfen/ Ich war mit der Hilfe: zufrieden": null
+    }
+  ]
+}

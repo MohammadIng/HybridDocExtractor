@@ -1,0 +1,732 @@
+[
+    {
+        "table_id": -1,
+        "texts": "Leistungsquittung",
+        "type": "OCR",
+        "coordinates": [
+            166,
+            197,
+            293,
+            218
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Name, Vorname",
+        "type": "OCR",
+        "coordinates": [
+            166,
+            237,
+            326,
+            259
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Jan Moller",
+        "type": "HTR",
+        "coordinates": [
+            326,
+            237,
+            566,
+            259
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Leistung: Teilhabe am Arbeitsleben",
+        "type": "OCR",
+        "coordinates": [
+            566,
+            237,
+            685,
+            297
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Arbeitsbereich",
+        "type": "OCR",
+        "coordinates": [
+            685,
+            237,
+            1052,
+            297
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "PYoblen losung",
+        "type": "HTR",
+        "coordinates": [
+            685,
+            237,
+            1052,
+            297
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Geburtsdatum",
+        "type": "OCR",
+        "coordinates": [
+            166,
+            258,
+            326,
+            297
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "ol-oz. 1995",
+        "type": "HTR",
+        "coordinates": [
+            326,
+            259,
+            566,
+            297
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Bedarf Laut ITP",
+        "type": "OCR",
+        "coordinates": [
+            166,
+            297,
+            1052,
+            321
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "ol ol. 2022 . 3). 12. 202 3",
+        "type": "HTR",
+        "coordinates": [
+            166,
+            297,
+            1052,
+            321
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Ganztagsplatz Halbtagsplatz Wochenstunden: ______Std./Tag",
+        "type": "OCR",
+        "coordinates": [
+            166,
+            323,
+            1052,
+            346
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Ich,",
+        "type": "OCR",
+        "coordinates": [
+            164,
+            368,
+            194,
+            389
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Ich, der/die Leistungsberechtigte (LB), habe Leistungen zur Teilhabe am Arbeitsleben in Anspruch genommen",
+        "type": "OCR",
+        "coordinates": [
+            194,
+            368,
+            918,
+            388
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "genommen",
+        "type": "OCR",
+        "coordinates": [
+            835,
+            371,
+            924,
+            391
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Monat / Jahr",
+        "type": "OCR",
+        "coordinates": [
+            159,
+            386,
+            1052,
+            820
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "o! 2023 3005704412:15",
+        "type": "HTR",
+        "coordinates": [
+            159,
+            386,
+            1052,
+            820
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Datum",
+        "type": "OCR",
+        "coordinates": [
+            162,
+            409,
+            236,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Uhrzeit von-bis",
+        "type": "OCR",
+        "coordinates": [
+            237,
+            409,
+            304,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Der/die LB hat die Leistung",
+        "type": "OCR",
+        "coordinates": [
+            323,
+            409,
+            510,
+            452
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Wenn nicht, weil",
+        "type": "OCR",
+        "coordinates": [
+            511,
+            409,
+            647,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Unterschrift LE",
+        "type": "OCR",
+        "coordinates": [
+            648,
+            409,
+            733,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ich bin mit der Leistung zufrieden",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            409,
+            904,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Unterschrift LB",
+        "type": "OCR",
+        "coordinates": [
+            905,
+            409,
+            1049,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "abgenommen",
+        "type": "OCR",
+        "coordinates": [
+            323,
+            453,
+            424,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "bewertet",
+        "type": "OCR",
+        "coordinates": [
+            425,
+            453,
+            510,
+            503
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ol-o2.2013",
+        "type": "HTR",
+        "coordinates": [
+            160,
+            514,
+            235,
+            535
+        ],
+        "cell_coordinates": [
+            162,
+            503,
+            236,
+            547
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "13:00 17:00",
+        "type": "HTR",
+        "coordinates": [
+            237,
+            503,
+            304,
+            547
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE 29",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            503,
+            733,
+            547
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            503,
+            904,
+            547
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LB MA",
+        "type": "HTR",
+        "coordinates": [
+            906,
+            503,
+            1049,
+            547
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "0204.202,",
+        "type": "HTR",
+        "coordinates": [
+            159,
+            555,
+            239,
+            580
+        ],
+        "cell_coordinates": [
+            162,
+            547,
+            236,
+            593
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "08:00 :20",
+        "type": "HTR",
+        "coordinates": [
+            237,
+            547,
+            304,
+            593
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE 3y",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            547,
+            733,
+            593
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            547,
+            904,
+            593
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "da Lg",
+        "type": "HTR",
+        "coordinates": [
+            906,
+            547,
+            1049,
+            593
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "30 17:",
+        "type": "HTR",
+        "coordinates": [
+            236,
+            592,
+            304,
+            638
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE ay",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            592,
+            733,
+            638
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            592,
+            904,
+            638
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Mq LB",
+        "type": "HTR",
+        "coordinates": [
+            906,
+            592,
+            1049,
+            637
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "13.06 2023",
+        "type": "HTR",
+        "coordinates": [
+            162,
+            638,
+            235,
+            682
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "12:00 17:00",
+        "type": "HTR",
+        "coordinates": [
+            237,
+            637,
+            304,
+            682
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE Ry",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            637,
+            733,
+            682
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            637,
+            904,
+            682
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LB Ma",
+        "type": "HTR",
+        "coordinates": [
+            906,
+            638,
+            1049,
+            682
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "12-07.2024",
+        "type": "HTR",
+        "coordinates": [
+            160,
+            688,
+            237,
+            709
+        ],
+        "cell_coordinates": [
+            162,
+            682,
+            236,
+            727
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "06:49 09:46",
+        "type": "HTR",
+        "coordinates": [
+            237,
+            682,
+            304,
+            727
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "wetterbediy 9+",
+        "type": "HTR",
+        "coordinates": [
+            515,
+            681,
+            652,
+            712
+        ],
+        "cell_coordinates": [
+            511,
+            682,
+            647,
+            727
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE a4",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            682,
+            733,
+            727
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            682,
+            904,
+            727
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LB Ms",
+        "type": "HTR",
+        "coordinates": [
+            905,
+            682,
+            1049,
+            727
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "1M1-2027",
+        "type": "HTR",
+        "coordinates": [
+            161,
+            735,
+            239,
+            761
+        ],
+        "cell_coordinates": [
+            162,
+            727,
+            236,
+            772
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "jo:g 13:30",
+        "type": "HTR",
+        "coordinates": [
+            237,
+            727,
+            304,
+            772
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "feliey N",
+        "type": "HTR",
+        "coordinates": [
+            519,
+            733,
+            591,
+            762
+        ],
+        "cell_coordinates": [
+            511,
+            727,
+            647,
+            772
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "L6 W",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            727,
+            733,
+            772
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            727,
+            904,
+            772
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LR Mu",
+        "type": "HTR",
+        "coordinates": [
+            906,
+            727,
+            1049,
+            772
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "31-12-2043",
+        "type": "HTR",
+        "coordinates": [
+            159,
+            777,
+            234,
+            804
+        ],
+        "cell_coordinates": [
+            162,
+            772,
+            236,
+            817
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "lo:oo 00",
+        "type": "HTR",
+        "coordinates": [
+            236,
+            772,
+            304,
+            817
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE a",
+        "type": "HTR",
+        "coordinates": [
+            648,
+            772,
+            733,
+            817
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "ja nein",
+        "type": "OCR",
+        "coordinates": [
+            751,
+            772,
+            904,
+            817
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LB le",
+        "type": "HTR",
+        "coordinates": [
+            905,
+            772,
+            1049,
+            817
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "1",
+        "type": "HTR",
+        "coordinates": [
+            1039,
+            822,
+            1048,
+            833
+        ],
+        "cell_coordinates": [
+            1039,
+            822,
+            1048,
+            833
+        ]
+    }
+]

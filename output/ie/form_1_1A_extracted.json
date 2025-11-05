@@ -1,0 +1,42 @@
+{
+  "Formtyp": "form_1_1A",
+  "Metadaten": {
+    "Name, Vorname": "Ahwal Ab wad",
+    "Träger": "Aler foch",
+    "Geburtsdatum": "If.o2. 1990",
+    "Anzahl bewilligter FLS bzw. ganz- tags/halbtags im Bewilligungszeitraum": "7",
+    "Bescheid von/bis": "20.01- 2023 20. ) . Zo2 3",
+    "Nachweiszeitraum: (Monat/jahr)": "Jan 2023",
+    "Gesamt FLS im Nachweiszeitraum": ": 2"
+  },
+  "Tätigkeitsdaten": [
+    {
+      "ID": "1",
+      "am (Datum) um (Uhrzeit)": "12.03-2025 6:00",
+      "Dauer in FLS": "3A5",
+      "Allein": null,
+      "In der Gruppe": null,
+      "Die Mitarbeiter haben mir geholfen.": "X",
+      "Ich war mit der Hilfe zufrieden.": "E",
+      "Unterschrift LB": "B Moy",
+      "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung:": "Tos tew I Rostock",
+      "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet": null,
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE+ Pers.Nr.": "LE a/"
+    },
+    {
+      "ID": "2",
+      "am (Datum) um (Uhrzeit)": "28-02.2023 joioo",
+      "Dauer in FLS": "- 1 $",
+      "Allein": null,
+      "In der Gruppe": null,
+      "Die Mitarbeiter haben mir geholfen.": null,
+      "Ich war mit der Hilfe zufrieden.": null,
+      "Unterschrift LB": "B. Jlisy",
+      "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung:": "Testen Schweviy",
+      "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet": null,
+      "Wenn nicht, weil:": null,
+      "Handzeichen LE+ Pers.Nr.": "LE4"
+    }
+  ]
+}

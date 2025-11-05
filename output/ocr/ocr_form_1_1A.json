@@ -1,0 +1,736 @@
+[
+    {
+        "table_id": -1,
+        "texts": "Leistungsquittungen",
+        "type": "OCR",
+        "coordinates": [
+            345,
+            130,
+            473,
+            148
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Name, Vorname",
+        "type": "OCR",
+        "coordinates": [
+            349,
+            166,
+            482,
+            193
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Ahwal Ab wad",
+        "type": "HTR",
+        "coordinates": [
+            481,
+            166,
+            641,
+            193
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Träger",
+        "type": "OCR",
+        "coordinates": [
+            656,
+            166,
+            753,
+            193
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Aler foch",
+        "type": "HTR",
+        "coordinates": [
+            753,
+            166,
+            879,
+            278
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Geburtsdatum",
+        "type": "OCR",
+        "coordinates": [
+            349,
+            193,
+            481,
+            217
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "If.o2. 1990",
+        "type": "HTR",
+        "coordinates": [
+            481,
+            193,
+            640,
+            217
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Anzahl bewilligter FLS bzw. ganz- tags/halbtags im Bewilligungszeitraum",
+        "type": "OCR",
+        "coordinates": [
+            349,
+            217,
+            481,
+            278
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "7",
+        "type": "HTR",
+        "coordinates": [
+            481,
+            217,
+            640,
+            278
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Bescheid von/bis",
+        "type": "OCR",
+        "coordinates": [
+            349,
+            278,
+            481,
+            324
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "20.01- 2023 20. ) . Zo2 3",
+        "type": "HTR",
+        "coordinates": [
+            481,
+            278,
+            640,
+            324
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Nachweiszeitraum: (Monat/jahr)",
+        "type": "OCR",
+        "coordinates": [
+            657,
+            278,
+            753,
+            324
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Jan 2023",
+        "type": "HTR",
+        "coordinates": [
+            753,
+            278,
+            879,
+            324
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": "Gesamt FLS im Nachweiszeitraum",
+        "type": "OCR",
+        "coordinates": [
+            349,
+            323,
+            753,
+            346
+        ]
+    },
+    {
+        "table_id": 2,
+        "texts": ": 2",
+        "type": "HTR",
+        "coordinates": [
+            349,
+            323,
+            753,
+            346
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "Ich (der/die Leistungsberechtigte) habe Leistungen in folgendem Umfang in Anspruch genommen",
+        "type": "OCR",
+        "coordinates": [
+            335,
+            365,
+            860,
+            382
+        ]
+    },
+    {
+        "table_id": -1,
+        "texts": "nommen:",
+        "type": "HTR",
+        "coordinates": [
+            344,
+            366,
+            849,
+            398
+        ],
+        "htr_coordinates": [
+            342,
+            382,
+            400,
+            398
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "am (Datum) um (Uhrzeit)",
+        "type": "OCR",
+        "coordinates": [
+            347,
+            412,
+            464,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Dauer in FLS",
+        "type": "OCR",
+        "coordinates": [
+            464,
+            413,
+            520,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Allein",
+        "type": "OCR",
+        "coordinates": [
+            520,
+            412,
+            568,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "In der Gruppe",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            413,
+            623,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ja",
+        "type": "OCR",
+        "coordinates": [
+            727,
+            413,
+            759,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "nein",
+        "type": "OCR",
+        "coordinates": [
+            759,
+            413,
+            800,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Unterschrift LB",
+        "type": "OCR",
+        "coordinates": [
+            799,
+            412,
+            879,
+            440
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "12.03-2025 6:00",
+        "type": "HTR",
+        "coordinates": [
+            347,
+            440,
+            464,
+            509
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "3A5",
+        "type": "HTR",
+        "coordinates": [
+            464,
+            440,
+            520,
+            509
+        ],
+        "htr_coordinates": [
+            471,
+            454,
+            519,
+            492
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "zu",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            440,
+            623,
+            509
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "type": "OCR",
+        "coordinates": [
+            623,
+            440,
+            727,
+            482
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "X",
+        "type": "HTR",
+        "coordinates": [
+            728,
+            440,
+            759,
+            482
+        ],
+        "htr_coordinates": [
+            732,
+            454,
+            750,
+            470
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "B Moy",
+        "type": "HTR",
+        "coordinates": [
+            800,
+            440,
+            879,
+            509
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "type": "OCR",
+        "coordinates": [
+            623,
+            482,
+            727,
+            509
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "E",
+        "type": "HTR",
+        "coordinates": [
+            728,
+            482,
+            759,
+            509
+        ],
+        "htr_coordinates": [
+            731,
+            482,
+            750,
+            498
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "type": "OCR",
+        "coordinates": [
+            347,
+            509,
+            879,
+            577
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Tos tew I Rostock",
+        "type": "HTR",
+        "coordinates": [
+            347,
+            509,
+            879,
+            577
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "type": "OCR",
+        "coordinates": [
+            347,
+            577,
+            520,
+            646
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ja",
+        "type": "OCR",
+        "coordinates": [
+            520,
+            577,
+            567,
+            605
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Nein",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            577,
+            623,
+            604
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Wenn nicht, weil",
+        "type": "OCR",
+        "coordinates": [
+            623,
+            577,
+            792,
+            646
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Handzeichen LE+ Pers.Nr.",
+        "type": "OCR",
+        "coordinates": [
+            791,
+            577,
+            879,
+            605
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ja",
+        "type": "OCR",
+        "coordinates": [
+            520,
+            604,
+            568,
+            646
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Nein",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            604,
+            623,
+            646
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE a/",
+        "type": "HTR",
+        "coordinates": [
+            791,
+            604,
+            879,
+            646
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "am (Datum) um (Uhrzeit)",
+        "type": "OCR",
+        "coordinates": [
+            347,
+            647,
+            464,
+            676
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Dauer in FLS",
+        "type": "OCR",
+        "coordinates": [
+            464,
+            647,
+            520,
+            675
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Allein",
+        "type": "OCR",
+        "coordinates": [
+            520,
+            647,
+            568,
+            675
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "In der Gruppe",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            647,
+            623,
+            676
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ja",
+        "type": "OCR",
+        "coordinates": [
+            727,
+            648,
+            759,
+            675
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "nein",
+        "type": "OCR",
+        "coordinates": [
+            759,
+            648,
+            800,
+            675
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Unterschrift LB",
+        "type": "OCR",
+        "coordinates": [
+            799,
+            647,
+            879,
+            675
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "28-02.2023 joioo",
+        "type": "HTR",
+        "coordinates": [
+            347,
+            675,
+            464,
+            744
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "- 1 $",
+        "type": "HTR",
+        "coordinates": [
+            464,
+            675,
+            520,
+            744
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Die Mitarbeiter haben mir geholfen.",
+        "type": "OCR",
+        "coordinates": [
+            623,
+            675,
+            727,
+            717
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "B. Jlisy",
+        "type": "HTR",
+        "coordinates": [
+            800,
+            675,
+            879,
+            744
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ich war mit der Hilfe zufrieden.",
+        "type": "OCR",
+        "coordinates": [
+            623,
+            717,
+            727,
+            744
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Zielbezogene Unterstützungsleistung gem. Teilhabeplan, Maßnahmedarstellung und Ort der Leistungserbringung",
+        "type": "OCR",
+        "coordinates": [
+            347,
+            744,
+            879,
+            812
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Testen Schweviy",
+        "type": "HTR",
+        "coordinates": [
+            347,
+            744,
+            879,
+            812
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Der Leistungsberechtigte hat die Leistung abgenommen und bewertet.",
+        "type": "OCR",
+        "coordinates": [
+            347,
+            812,
+            520,
+            881
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ja",
+        "type": "OCR",
+        "coordinates": [
+            520,
+            812,
+            567,
+            840
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Nein",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            812,
+            623,
+            840
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Wenn nicht, weil",
+        "type": "OCR",
+        "coordinates": [
+            623,
+            812,
+            792,
+            881
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Handzeichen LE+ Pers.Nr.",
+        "type": "OCR",
+        "coordinates": [
+            791,
+            812,
+            879,
+            840
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Ja",
+        "type": "OCR",
+        "coordinates": [
+            520,
+            839,
+            568,
+            881
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "Nein",
+        "type": "OCR",
+        "coordinates": [
+            567,
+            839,
+            623,
+            881
+        ]
+    },
+    {
+        "table_id": 1,
+        "texts": "LE4",
+        "type": "HTR",
+        "coordinates": [
+            791,
+            839,
+            879,
+            881
+        ],
+        "htr_coordinates": [
+            795,
+            843,
+            863,
+            878
+        ]
+    }
+]
