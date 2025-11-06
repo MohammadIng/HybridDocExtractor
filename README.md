@@ -1,10 +1,3 @@
-from pathlib import Path
-
-readme_content = """# 📘 Automated Document Processing Pipeline
-### Layout Analysis, OCR/HTR and Information Extraction for Handwritten Time-Tracking Forms
-
----
-
 ## 🧩 Overview
 
 This project implements a **complete end-to-end pipeline** for automated document processing of **semi-structured handwritten time-tracking forms**.  
